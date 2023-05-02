@@ -1,2 +1,2 @@
 # Learning-Programming-Languages
-Project_Python
+Python, React, JavaScript, HTMl
