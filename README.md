@@ -1,2 +1,2 @@
 # Learning-Programming-Languages
-Python, React, JavaScript, HTMl
+Python, React, JavaScript, HTML, CSS
